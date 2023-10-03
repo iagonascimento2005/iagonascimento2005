@@ -5,5 +5,5 @@
 - 📞 Contate-me no email: ...
 - 😄 Pronomes: Ele/Dele
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=iagonascimento2005&show_icons=true&theme=transparent&theme=radical)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=iagonascimento2005&show_icons=true&theme=radical)
 
