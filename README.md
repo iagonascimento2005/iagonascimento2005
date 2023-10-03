@@ -1,4 +1,4 @@
-### Olá! Eu sou Iago Nascimento.
+### Olá! Eu sou Iago Nascimento
 
 - 🔭 Hoje trabalho em ...
 - 🌱 Estudando HTML e CSS
