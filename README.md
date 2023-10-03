@@ -5,4 +5,4 @@
 - 📞 Contate-me no email: ...
 - 😄 Pronomes: Ele/Dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagonascimento2005&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagonascimento2005&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
